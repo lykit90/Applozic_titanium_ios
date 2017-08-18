@@ -1,0 +1,17 @@
+PODS:
+  - Applozic (3.10):
+    - SDWebImage (~> 3.8)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - Applozic
+
+SPEC CHECKSUMS:
+  Applozic: d5c011fa9963204f5e8a4ccd5d508c62b6d902b4
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: 6ead6758f86a169c33543076e3a8190dbd698909
+
+COCOAPODS: 1.2.1
