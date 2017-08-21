@@ -100,7 +100,6 @@
 -(void)serverCallForLastSeen;
 -(void)freezeView:(BOOL)freeze;
 -(BOOL)checkRestrictWords:(NSString *)msgText;
-@property (weak, nonatomic) IBOutlet UIView *jobView;
 @property (weak, nonatomic) IBOutlet UIImageView *coyImg;
 @property (weak, nonatomic) IBOutlet UILabel *jobTtl;
 @property (weak, nonatomic) IBOutlet UILabel *jobLoc;
